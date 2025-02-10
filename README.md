@@ -1,16 +1,23 @@
-# Hi there I'm Surge Brian Mutugi👋
+# 👋 Hi there, I'm **Surge Brian Mutugi**  
 
-<img src="https://avatars.githubusercontent.com/u/160673325?v=4" alt="Syrge Brian" width="100" height="100" align="right" />
+<img src="https://avatars.githubusercontent.com/u/160673325?v=4" alt="Surge Brian" width="120" height="120" align="right" style="border-radius: 50%; border: 3px solid #61DAFB; box-shadow: 0 0 10px rgba(97, 218, 251, 0.5);" />
 
-I'm a passionate **Web Developer** specializing in the **MERN stack**, a creative **Photographer**, and a skilled **Basketballer**. I love building scalable web applications, capturing moments through my lens, and staying active on the court.
+I'm a passionate **Full-Stack Web Developer** 🖥️ specializing in the **MERN stack**, a creative **Photographer** 📸, and a skilled **Basketballer** 🏀. I love building scalable web applications, capturing moments through my lens, and staying active on the court. With a strong foundation in software development and a love for problem-solving, I'm always eager to take on new challenges and deliver high-quality solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 **What I Do**  
+- 💻 Build **scalable web applications** using modern technologies.  
+- 🎨 Design **responsive and user-friendly interfaces**.  
+- 🧩 Solve complex problems with **clean and efficient code**.  
+- 📸 Capture **stunning visuals** as a freelance photographer.  
+- 🏀 Stay active and competitive on the basketball court.  
 
-Here are the technologies and tools I work with:
+---
 
-### **Frontend**
+## 🛠️ **Tech Stack**  
+
+### **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,61 +25,85 @@ Here are the technologies and tools I work with:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### **Backend**
+### **Backend Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
-### **Database**
+### **Database Management**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Tools & Platforms**
+### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🎓 Education
-
-- **Student at KCA University** - Pursuing my degree in Software Development.
-- **Alumni at PLP Academy** - Gained foundational skills in programming and problem-solving.
-- **Student at GoMyCode** - Enhancing my web development skills through hands-on projects.
-
----
-
-## 💼 Professional Experience
-
-I have worked with **various companies** and contributed to **multiple projects** as a web developer. My experience spans across building scalable web applications, collaborating with cross-functional teams, and delivering high-quality solutions.
+## 🎓 **Education**  
+- **KCA University** - Bachelor of Science in Software Development (Ongoing)  
+- **PLP Academy** - Certificate in Programming & Problem-Solving  
+- **GoMyCode** - Full-Stack Web Development Certification  
 
 ---
 
-## 🏀 Hobbies & Interests
+## 💼 **Professional Experience**  
 
-- **Photography**: Capturing moments and telling stories through my lens.
-- **Basketball**: A skilled player who enjoys the game and the teamwork it involves.
+### **Web Developer**  
+- Developed and maintained scalable web applications using the MERN stack.  
+- Collaborated with cross-functional teams to deliver high-quality solutions.  
+- Built RESTful APIs and integrated third-party services for enhanced functionality.  
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daslime&show_icons=true&theme=radical)
-
----
-
-## 🌱 Always Learning
-
-As a web developer, I believe in continuous learning. I'm always exploring new technologies, frameworks, and best practices to improve my skills and deliver better solutions.
+### **Freelance Photographer**  
+- Captured high-quality images for clients, including portraits, events, and landscapes.  
+- Edited and retouched photos using Adobe Lightroom and Photoshop.  
 
 ---
 
-## 📫 Let's Connect
-
-- **Imail**: [your.brianmutugidev@gmail.com](mailto:your.email@brianmutugidev.com)
-- **instagram**: [TUSHIZZLEGRAM](https://instagram.com/tushizzlegram)
-
+## 🏀 **Hobbies & Interests**  
+- 📸 **Photography**: Capturing moments and telling stories through my lens.  
+- 🏀 **Basketball**: A skilled player who enjoys the game and the teamwork it involves.  
+- 🌐 **Open Source Contributions**: Actively contributing to open-source projects to give back to the community.  
 
 ---
 
-⭐️ From [Your Surge](https://github.com/daslime)
+## 📈 **GitHub Stats**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daslime&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daslime&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daslime&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🌱 **Always Learning**  
+I believe in continuous growth and am currently exploring:  
+- **TypeScript** for type-safe JavaScript development.  
+- **GraphQL** for efficient API querying.  
+- **Microservices Architecture** for scalable backend systems.  
+
+---
+
+## 📫 **Let's Connect**  
+
+- 📧 **Email**: [brianmutugidev@gmail.com](mailto:brianmutugidev@gmail.com)  
+- 💼 **LinkedIn**: [Surge Brian Mutugi](https://www.linkedin.com/in/surge-brian-mutugi)  
+- 📸 **Instagram**: [TUSHIZZLEGRAM](https://instagram.com/tushizzlegram)  
+- 🐙 **GitHub**: [daslime](https://github.com/daslime)  
+
+---
+
+⭐️ From [Surge Brian](https://github.com/daslime)  
+Let's build something amazing together! 🚀  
