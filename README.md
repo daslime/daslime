@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Surge Brian Mutugi👋
 
 I'm a passionate **Web Developer** specializing in the **MERN stack**, a creative **Photographer**, and a skilled **Basketballer**. I love building scalable web applications, capturing moments through my lens, and staying active on the court.
 
@@ -72,4 +72,4 @@ As a web developer, I believe in continuous learning. I'm always exploring new t
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [surge](https://github.com/dalime)
