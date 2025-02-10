@@ -69,10 +69,10 @@ As a web developer, I believe in continuous learning. I'm always exploring new t
 
 ## 📫 Let's Connect
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: [your.email@example.com](mailto:your.email@brianmutugidev.com)
+- **LinkedIn**: [Your Name](https://instagram.com/tushizzlegram)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Surge](https://github.com/daslime)
