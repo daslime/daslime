@@ -69,8 +69,8 @@ As a web developer, I believe in continuous learning. I'm always exploring new t
 
 ## 📫 Let's Connect
 
-- **Email**: [your.email@example.com](mailto:your.email@brianmutugidev.com)
-- **LinkedIn**: [Your Name](https://instagram.com/tushizzlegram)
+- **Imail**: [your.email@example.com](mailto:your.email@brianmutugidev.com)
+- **instagram**: [Your Name](https://instagram.com/tushizzlegram)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
