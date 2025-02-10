@@ -1,4 +1,6 @@
-# Hi there I'm Surge Brian Mutugi👋
+# Hi there 👋
+
+<img src="https://avatars.githubusercontent.com/u/yourprofile" alt="Your Name" width="100" height="100" align="right" />
 
 I'm a passionate **Web Developer** specializing in the **MERN stack**, a creative **Photographer**, and a skilled **Basketballer**. I love building scalable web applications, capturing moments through my lens, and staying active on the court.
 
@@ -13,6 +15,7 @@ Here are the technologies and tools I work with:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -72,4 +75,4 @@ As a web developer, I believe in continuous learning. I'm always exploring new t
 
 ---
 
-⭐️ From [surge](https://github.com/dalime)
+⭐️ From [Your Name](https://github.com/yourusername)
