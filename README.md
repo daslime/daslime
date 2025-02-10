@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there I'm Surge Brian Mutugi👋
 
-<img src="https://avatars.githubusercontent.com/u/yourprofile" alt="Your Name" width="100" height="100" align="right" />
+<img src="https://avatars.githubusercontent.com/u/160673325?v=4" alt="Syrge Brian" width="100" height="100" align="right" />
 
 I'm a passionate **Web Developer** specializing in the **MERN stack**, a creative **Photographer**, and a skilled **Basketballer**. I love building scalable web applications, capturing moments through my lens, and staying active on the court.
 
@@ -57,7 +57,7 @@ I have worked with **various companies** and contributed to **multiple projects*
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daslime&show_icons=true&theme=radical)
 
 ---
 
