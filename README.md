@@ -2,7 +2,35 @@
 
 <img src="https://avatars.githubusercontent.com/u/160673325?v=4" alt="Surge Brian" width="120" height="120" align="right" style="border-radius: 50%; border: 3px solid #61DAFB; box-shadow: 0 0 10px rgba(97, 218, 251, 0.5);" />
 
-I'm a passionate **Full-Stack Web Developer** 🖥️ specializing in the **MERN stack**, a creative **Photographer** 📸, and a skilled **Basketballer** 🏀. I love building scalable web applications, capturing moments through my lens, and staying active on the court. With a strong foundation in software development and a love for problem-solving, I'm always eager to take on new challenges and deliver high-quality solutions.
+Hey there! 👋 I'm Surge Brian Mutugi, a passionate Full-Stack Web Developer 🖥️ specializing in the MERN stack, a creative Photographer 📸, and a skilled Basketballer 🏀. I thrive on building scalable, high-performance web applications, capturing the world through my lens, and bringing energy to the basketball court.
+
+---
+
+
+🚀 Tech & Code: I'm deeply invested in web development, crafting intuitive user experiences, and engineering robust backend systems. I love problem-solving and turning ideas into efficient, real-world solutions.
+
+
+---
+
+📚 Lifelong Learner: A dedicated student of Software Development at KCA University, an alumnus of PLP Academy, and a current learner at GoMyCode. I embrace every opportunity to grow, whether through hands-on projects, tech communities, or open-source contributions.
+
+
+---
+
+💡 Beyond Code: My love for history, literature, and humanity keeps me curious and grounded. Whether it's a deep dive into historical narratives, an engaging philosophical discussion, or an inspiring novel, I appreciate the stories that shape our world.
+
+
+---
+
+🎯 What Drives Me:
+
+Writing clean, maintainable, and efficient code 🏗️
+Building scalable & secure web applications 🔒
+Exploring AI, automation, and emerging web technologies 🤖
+Contributing to open-source projects 🌍
+Sharing knowledge & collaborating with other developers 🤝
+🌎 Let's Connect! Whether it's about tech, photography, basketball, or a great book recommendation, I'm always up for an insightful conversation! Feel free to check out my work, contribute to projects, or just say hi!
+
 
 ---
 
