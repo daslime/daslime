@@ -77,9 +77,9 @@ Sharing knowledge & collaborating with other developers 🤝
 ---
 
 ## 🎓 **Education**  
-- **KCA University** - Bachelor of Science in Software Development (Ongoing)  
-- **PLP Academy** - Certificate in Programming & Problem-Solving  
-- **GoMyCode** - Full-Stack Web Development Certification  
+- **KCA University** - Bachelor of Science in Computer Science (Ongoing)  
+- **PLP Academy** - Certificate in Programming & Problem-Solving
+- **GoMyCode** - Full-Stack Web Development Certification  (Ongoing)  
 
 ---
 
